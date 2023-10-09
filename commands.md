@@ -17,3 +17,9 @@ sudo apt-get install python3.9
 sudo apt install python3-tk
 
 pip install Pillow
+
+sudo apt-get install git
+
+### to clone this repo onto pi:
+
+git clone https://github.com/ZachON5800/IEEE-slideshow-control
