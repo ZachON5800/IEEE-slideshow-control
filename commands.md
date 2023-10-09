@@ -8,7 +8,7 @@ python3 /home/display1/working-slideshow.py
 
 sudo nano /etc/profile
 
-sudo nano working-slideshow.py OR sudo nano /IEEE-slideshow-control/working-slideshow.py (if cloned)
+sudo nano working-slideshow.py OR sudo nano IEEE-slideshow-control/working-slideshow.py (if cloned)
 
 ### to install necessary packages (probably installed by default, run to check):
 
@@ -22,4 +22,4 @@ sudo apt-get install git
 
 ### to clone this repo onto pi:
 
-git clone https://github.com/ZachON5800/IEEE-slideshow-control
+git clone https://github.com/ZachON5800/IEEE-slideshow-control (make sure you are connected to internet for this to work)
