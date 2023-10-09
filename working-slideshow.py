@@ -1,5 +1,5 @@
 #!/bin/bash/python3
-
+# THIS SCRIPT IS SPECIFICALLY USED IN FLYERS PI, COPY SCRIPT AND CHANGE AS NEEDED
 # import required modules
 import tkinter as tk
 from tkinter import *
