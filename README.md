@@ -9,6 +9,8 @@ commands & python scripts used for programming raspberrypis to play IEEE slidesh
 
 -Pillow
 
+-git (just to be able to use this repo)
+
 see commands.md to check if packages are installed
 
 ### general tips:
