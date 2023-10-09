@@ -8,7 +8,7 @@ python3 /home/display1/working-slideshow.py
 
 sudo nano /etc/profile
 
-sudo nano working-slideshow.py
+sudo nano working-slideshow.py OR sudo nano /IEEE-slideshow-control/working-slideshow.py (if cloned)
 
 ### to install necessary packages (probably installed by default, run to check):
 
