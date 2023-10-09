@@ -17,6 +17,8 @@ see commands.md to check if packages are installed
 
 download pngs to desktop 
 
+if a command doesn't work, ensure you are connected to internet
+
 in Raspberry Pi Configuration under Preferences, enable SSH, auto-login, and VNC
 
 SSH: allows remote connection via Putty (terminal only)
