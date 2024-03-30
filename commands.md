@@ -27,3 +27,8 @@ git clone https://github.com/ZachON5800/IEEE-slideshow-control (make sure you ar
 ### if you get an ImportError resulting from the line "from PIL import ImageTk" in working-slideshow.py:
 
 sudo apt-get install python3-pil python3-pil.imagetk
+
+### installing teamviewer package:
+wget https://download.teamviewer.com/download/linux/teamviewer-host_armhf.deb
+--then--
+sudo dpkg -i teamviewer-host_armhf.deb
