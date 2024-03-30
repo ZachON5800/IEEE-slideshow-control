@@ -34,3 +34,7 @@ wget https://download.teamviewer.com/download/linux/teamviewer-host_armhf.deb
 --then--
 
 sudo dpkg -i teamviewer-host_armhf.deb
+
+--if error occurs during dpkg due to uninstalled packages:
+
+sudo apt --fix-broken install
