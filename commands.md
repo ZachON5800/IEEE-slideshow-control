@@ -1,12 +1,12 @@
 # commands
 
-### to run on reboot (put at bottom of /etc/profile):
+### to run on reboot (put after Exec= in /etc/xdg/autostart/startslideshow.desktop):
 
 python3 /home/display1/working-slideshow.py OR python3 /home/display1/IEEE-slideshow-control/working-slideshow.py (if cloned)
 
 ### to edit files:
 
-sudo nano /etc/profile
+sudo nano /etc/xdg/autostart/startslideshow.desktop
 
 sudo nano working-slideshow.py OR sudo nano IEEE-slideshow-control/working-slideshow.py (if cloned)
 
