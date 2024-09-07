@@ -19,10 +19,14 @@ download pngs to desktop
 
 if a command doesn't work, ensure you are connected to internet
 
-in Raspberry Pi Configuration under Preferences, enable SSH, auto-login, and VNC
+to enable SSH, auto-login, and/or VNC, access Pi Configuration under Preferences
 
-SSH: allows remote connection via Putty (terminal only)
+Install Teamviewer host on your device and use with ieee account for remote access
 
-VNC: allows remote connection via VNC Viewer (desktop)
+SSH: allows remote connection via Putty (terminal only) DOES NOT WORK ON SCHOOL NETWORK
+
+VNC: allows remote connection via VNC Viewer (desktop) DOES NOT WORK ON SCHOOL NETWORK
+
+Teamviewer: allows remote connection via "Easy Access" (desktop) WORKS ON SCHOOL NETWORK
 
 auto-login: slideshow starting on reboot without user input is desirable, enable this to skip login & see commands.md
